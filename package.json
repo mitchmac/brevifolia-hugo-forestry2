@@ -1,0 +1,22 @@
+{
+  "name": "brevifolia-hugo-forestry2",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a style=\"padding-right: 16px;\" href=\"https://forestry.io\">     <img src=\"https://app.forestry.io/assets/forestry-logotype-pos-c71a6bd237d9199d0457ba2811553997ff5bab0d2cd0e740686ab26c00d9c240.svg\" width=\"112\" height=\"28\">   </a>   <a href=\"https://gohugo.io/\">     <img src=\"/static/hugo-logo-wide.svg\" width=\"112\" height=\"28\">   </a> </p> <h1 align=\"center\">   Brevifolia </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchmac/brevifolia-hugo-forestry2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitchmac/brevifolia-hugo-forestry2/issues"
+  },
+  "homepage": "https://github.com/mitchmac/brevifolia-hugo-forestry2#readme",
+  "dependencies": {
+    "simple-test-package": "^0.2.2"
+  }
+}

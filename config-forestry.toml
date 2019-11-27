@@ -2,3 +2,11 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "tale-theme"
 title = "Brevifolia!!"
+[languages.en]
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 0
+[languages.ja]
+  languageName = "Japanese"
+  contentDir = "content/ja"
+  weight = 10
